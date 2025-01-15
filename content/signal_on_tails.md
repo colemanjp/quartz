@@ -73,7 +73,7 @@ sudo bash -c "echo 'deb [arch=amd64 signed-by=/usr/share/keyrings/persistent/sig
 
 ## Install Custom Signal Startup Script
 
-This script sets environment variables needed run Signal on Tails
+This script sets environment variables needed to run Signal on Tails
 
 ```
 cat >$HOME/Persistent/signal.sh<<EOF

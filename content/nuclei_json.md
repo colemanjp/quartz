@@ -4,7 +4,6 @@ author: "John Coleman"
 date: "2024-09-28"
 tags: 
      - howto
-     - nuclei
 ---
 
 # Create a csv with select fields
